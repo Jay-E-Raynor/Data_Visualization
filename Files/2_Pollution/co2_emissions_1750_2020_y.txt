@@ -1,0 +1,95 @@
+About Dataset
+Impact of CO2 on Quality of Life around the World
+Study of how different countries are affected by CO2 levels
+
+Outline
+
+    About The Dataset
+    Data Extraction and Cleaning
+    CO2 Emission According to Size and Density
+    CO2 Emission According to Political Ideology
+    Impact Of CO2 On The Temperature
+    Unsupervised Machine Learning On The Quality of CO2
+    Conclusion
+    Areas for Further Research
+
+About The Dataset
+
+The public data set in this repo consists of data on the daily life of people around the world.
+The objective is to link certain systematic CO2 levels to cause more severe risk and quality of life problems for the population.
+
+Examples:
+
+    Temperature- Since CO2 is a greenhouse gas, warmer temperatures can pose as a negative effect.
+    Humidity- Due to increased CO2 levels, there can be more water cloudy and less sunlight.
+    Population- A higher population density can result in higher CO2 emissions.
+    Area- Larger area countries can hold more trees and ecosystem and thus be able to filter more CO2.
+
+Pain Points or Answers the Data Set will Solve
+
+    Can we conclude that the average humidity is higher in countries with higher CO2 emissions?
+    Can we conclude that the average temperature is higher in countries with higher CO2 emission?
+    Can we conclude that there is a positive relationship between countries with higher CO2 emissions and higher density?
+    What are the political factors that lead to higher levels of CO2? (example are deregulated economies better for our ecosystem, do socialist economies have higher CO2?)
+    Can we use machine learning to determine how CO2 emission will affect the quality of life in a certain country?
+    Can we conclude that a higher population causes higher CO2 emission?
+
+Purpose
+
+    Find out what levels of CO2 will it start to negatively impact the quality of life in different countries.
+    Understand the balances needed to have higher economic growth while maintaining an eco-friendly environment.
+    Grasp an understanding of the ecosystem of the world.
+    Determine global environmentalist strategies to employ.
+    Determine regulatory frameworks to prevent over-emission.
+
+Usage
+
+Other than gaining knowledge and expecting value from looking at the trends, this dataset is useful to determine how to deal with future emissions.
+
+Multilateral agreements between countries to reduce emissions by a certain date to help the ecosystem of the world.
+Governments may implement regulations and mandates on companies to emit less and thus help the ecosystem.
+Individuals and companies can look at the data to understand what impact they have on the ecosystem.
+Hypothesis
+The null hypothesis is:
+
+    Countries with a higher population have higher CO2 emission levels
+    Countries with a higher density have higher CO2 emission levels
+    Socialist countries have higher CO2 emission levels
+    Democratic/Capitalistic countries have higher CO2 emission levels
+
+The alternative hypothesis is:
+
+    Countries with a smaller population have higher CO2 emission levels
+    Countries with smaller density have higher CO2 emission levels
+    Borderline Dictatorship countries have higher CO2 emission levels
+    Monarchist countries have higher CO2 emission levels
+
+The Data-set consists mainly of two dataframes:
+
+    CO2 Emission by Country
+    Indoor Environmental Data
+
+The information from each dataframes will be fed into a database to provide data for the tables and charts.
+
+The tables for the UN database are:
+
+    indicators
+    countries
+    series
+
+CO2 Emission by Country Information:
+Link to Dataset:
+
+-https://data.worldbank.org/indicator/EN.ATM.CO2E.KT
+Information On Dataset
+
+The C02 by Country Data Set provides the C02 levels of countries around the world per year. The Data Set comes from The World Banks Atlas Method which uses individual countries data reported to the United Nations Framework Convention on Climate Change (UNFCCC) and other international sources.
+This Data Set is a great resource to determine individual country emission situation and to see how they affect each other.
+Information in the Dataset:
+
+    Country (Title)
+    Code
+    60- 68
+    Code (Range of C02 levels)
+
+Sorry for the long description.

@@ -1,0 +1,8 @@
+About this file
+
+Northern Hemisphere Daily Data from 1978 to February 2022
+
+The dataset is sourced from the Sea Ice Index compiled by the National Snow & Ice Center. The link to the source Sea Ice Index
+
+Note: I am teaching myself data science. All credits of the dataset goes to the source. The purpose of uploading this dataset into
+ Kaggle is for a capstone project.

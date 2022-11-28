@@ -1,0 +1,7 @@
+This dataset consist of global sea level rise as provided by climate.gov.
+
+The dataset has two columns
+date: July of each year
+mmfrom1993-2008average: sea level in millimeters
+
+https://www.climate.gov/news-features/understanding-climate/climate-change-global-sea-level
